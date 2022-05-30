@@ -52,11 +52,11 @@ const player = new Character({
     X: 516,
     Y: 288,
   },
-  speed: 2.5,
+  speed: 2,
   equipment: [
     bodySkin[0],
     feetSkin[1],
-    legSkin[0],
+    legSkin[1],
     bracerSkin[0],
     torsoSkin[2],
     shoulderSkin[0],
